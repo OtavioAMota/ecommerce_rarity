@@ -1,0 +1,2 @@
+# testes dentro do servidor:
+    docker-compose exec web pytest --cov --cov-report=html
